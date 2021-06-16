@@ -1,0 +1,1 @@
+This is the final project for CSS 490 -- "Fairness in Machine Learning", completed Spring Quarter 2021. In this Jupyter notebook we augment the Aequitas source code to provide a binning method, calculate Group Adjusted False Positives/Negatives and to specify columns as "score" and "label_value" as specified by Aequitas.
